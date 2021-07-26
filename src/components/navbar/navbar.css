@@ -23,6 +23,7 @@
     margin-right: 10px;
     color: rgb(44, 30, 109);
     cursor: pointer;
+    list-style: none;
 }
 .topImg{
     width: 40px;
@@ -56,5 +57,8 @@
 .logo:hover{
     text-decoration: none;
     color: rgb(187, 85, 85);
+}
+.login{
+    text-decoration: none;
 }
 

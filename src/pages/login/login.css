@@ -1,0 +1,33 @@
+.box{
+    height: calc(100vh - 64px);
+    background: linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5)), url("../../img/tim.jpg");
+    background-size: cover;
+    position: relative;
+    
+}
+h1{
+    color: rgb(160, 25, 25);
+    font-weight: 600;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Lora', serif;
+}
+
+form{
+    align-self: center;
+    width: 100%;
+    margin-top: 100px;
+}
+.register{
+    
+    width: 100px;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    text-align: center;
+
+    
+}
+.login{
+    width: 30%;
+}
